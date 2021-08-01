@@ -1,0 +1,22 @@
+export const SliderData = [
+    {
+      image:
+        'https://assets.thehansindia.com/h-upload/feeds/2019/07/09/194080-india-vs-new-zealand-live-score.jpg'
+    },
+    {
+      image:
+        'https://images.indianexpress.com/2021/04/DCvMI.jpg'
+    },
+    {
+      image:
+        'https://cricketaddictor.gumlet.io/wp-content/uploads/2021/04/174507254_611301116935673_1023264004429905840_n.jpg?compress=true&quality=80&w=1920&dpr=2.6'
+    },
+    {
+      image:
+        'https://images.indianexpress.com/2021/04/MI-vs-KKR.jpg'
+    },
+    {
+      image:
+        'https://www.crictracker.com/wp-content/uploads/2020/10/dream11-FINAL-FI-640x400-Match-28.png'
+    }
+  ];
